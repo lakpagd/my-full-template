@@ -4,7 +4,7 @@ Welcome to my simple website!
 
 This website was built as part of the learning material for Fullstack Web Developer program.
 
-Click [here] (https://lakpagd.github.io/my-full-template/) to view the live website.
+Click [here](https://www.lakpagd.github.io/my-full-template/) to view the live website.
 
 ## Project Description
 
